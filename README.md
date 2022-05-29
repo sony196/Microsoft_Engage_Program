@@ -18,7 +18,7 @@
 # How to use
 - Fill  the inputs with proper information in the respective features and press the predict button which is created in the bottom,then you will get predicted value of corresponding feature
 # Live project
-- You can try this app here(https://share.streamlit.io/sony196/microsoft_engage_program/app.py)
+- You can try this app [here](https://microsoftengageprogram.herokuapp.com/)
 # Technologies used-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
